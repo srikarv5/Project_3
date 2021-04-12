@@ -1,15 +1,12 @@
 start node ,end node ,weight
-0,1,4
-0,7,8
-1,7,11
-1,2,8
-7,8,7
-7,6,1
-2,3,7
-2,5,4
-2,8,2
-6,8,6
-6,5,2
-5,3,14
-5,4,10
-3,4,9
+Bascom Hall,College Library,20
+Bascom Hall,Humanities,20
+Bascom Hall,Grainger Hall,40
+Humanities,Memorial Union,15
+Humanities,University Book Store,10
+Humanities,Vilas Hall,7
+Humanities,Grainger Hall,10
+Memorial Union,College Library,5
+Memorial Union,Memorial Library,10
+Memorial Library,University Book Store,5
+Grainger Hall,Vilas Hall,7

@@ -13,6 +13,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 
 
+//This class describes map objects that store locations as vertices and routes to move between vertices as edges
+//weights of edges represent the distances between each location
 public class Map extends CS400Graph<String>{
 
     public Map(String CSVpath){

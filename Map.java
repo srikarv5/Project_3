@@ -1,3 +1,11 @@
+// --== CS400 File Header Information ==--
+// Name: Srikar Vootkur
+// Email: svootkur@wisc.edu
+// Team: BF Red
+// Role: Data Wrangler
+// TA: Brianna Cochran
+// Lecturer: Gary Dahl
+// Notes to Grader: 
 
 import java.io.FileReader;
 import java.io.File;
@@ -52,7 +60,7 @@ public class Map extends CS400Graph<String>{
     }
 
     public static void main(String[] args){
-        Map map = new Map("MapData.csv");
+        //Map map = new Map("MapData.csv");
         //System.out.println(map.getVertexCount());
     }
 

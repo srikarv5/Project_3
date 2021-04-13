@@ -4,10 +4,13 @@ Name of DataWrangler: Srikar Vootkur
 @wisc.edu Email of DataWrangler: svootkur@wisc.edu
 Group: BF
 Team: red
-Files Written by Me: , MapData.csv
+Files Written by Me: 
 --------------------
 Map.java
  - The class that uses GraphADT and extends CS400Graph classes to describe objects that represent geographical maps with locations and routes. 
+ 
+TestMap.java
+- Tests the Map class to ensure all code is functioning as expected.
 
 MapData.csv
 - The CSV file containing the input data of the UW Building Map with connecting routes and distances. Roughly represents the buildings and distances at the center of campus.

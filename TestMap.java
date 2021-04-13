@@ -1,3 +1,11 @@
+// --== CS400 File Header Information ==--
+// Name: Srikar Vootkur
+// Email: svootkur@wisc.edu
+// Team: BF Red
+// Role: Data Wrangler
+// TA: Brianna Cochran
+// Lecturer: Gary Dahl
+// Notes to Grader: 
 
 public class TestMap {
 

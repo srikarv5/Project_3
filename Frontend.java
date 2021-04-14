@@ -1,9 +1,16 @@
-
+// --== CS400 File Header Information ==--
+// Name: Irving Peng
+// Email: cpeng53@wisc.edu
+// Team: BF Red
+// Role: Frontend
+// TA: Brianna Cochran
+// Lecturer: Gary Dahl
+// Notes to Grader: n/a
 import java.util.*;
 public class Frontend {
 	Map madisonMap = new Map("MapData.csv");
 	Backend UWmap = new Backend(madisonMap);
-	ArrayList<String> ls = new ArrayList<String>();
+
 	
 	
 	public static void main(String[] args) {
@@ -55,7 +62,7 @@ public class Frontend {
 	
 	public static void do1(Backend thisMap) {
 		System.out.println("this is all the buildings in UW Madison: ");
-		thisMap.printBuildings();
+		System.out.println(thisMap.getBuildings())
 	}
 	public static void do2(Backend thisMap) {
 		
